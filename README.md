@@ -7,21 +7,7 @@
 </div>
 
 ---
-
-## 🎓 About Me
-
-🎯 **Computer Science Undergraduate (Class 2023 - 2026)** at **Swinburne University of Technology**  
-🏆 **Best Unit Performance** in IoT Programming & Object-Oriented Programming  
-💼 **Intern Mobile/Software Developer** at **FPT Software**  
-🌟 **Passionate about** Mobile Development, Full-Stack Web Development, and IoT  
-
-### 🚀 My Specialties
-- **Cross-platform & Native Mobile Development** (iOS, Android, Flutter)
-- **Full-Stack Web Development** (Frontend, Backend, APIs)
-- **IoT Programming and Embedded Systems**
-
-
-## 📊 GitHub Analytics
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martellev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="200" alt="GitHub Stats">
@@ -37,7 +23,7 @@
 </div>
 
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 ### 📱 **Mobile & Desktop App Development**
 <div align="left">
@@ -122,10 +108,11 @@
 
 | **Language** | **Proficiency** | **Use Cases** |
 |--------------|-----------------|---------------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-stack web development, APIs |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend development, Android apps |
 | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐⭐⭐ | iOS native development |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend development, Android apps |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-stack web development, APIs |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ⭐⭐⭐⭐ | System programming, IoT |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ⭐⭐⭐⭐ | Desktop app development |
 
 </div>
 
