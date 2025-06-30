@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_bust=1" height="200" alt="Top Languages">
 </div>
 
 <div align="center">
