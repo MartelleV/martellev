@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_bust=2" height="200" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_bust=1" height="200" alt="Top Languages">
 </div>
 
 <div align="center">
@@ -55,13 +55,15 @@
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" title="Spring">
   <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="Dotnet" title="Dotnet">
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase">
 </div>
 
-**Frontend:** React, Vue.js, Angular, Next.js, Nuxt.js, TypeScript  
-**Backend:** Spring Boot, Node.js, RESTful APIs  
+**Frontend:** React, Vue.js, Angular, Next.js, Nuxt.js  
+**Backend:** Spring Boot, Node.js, ASP.NET Core, RESTful APIs  
 **Database:** PostgreSQL, MongoDB, MySQL, Firebase
 
 ### 🔧 **IoT & Low-Level Programming**
@@ -81,8 +83,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi">
 </div>
 
-**Systems:** Linux (Fedora, Debian), Embedded Systems, Microcontrollers  
-**Hardware:** Arduino, Raspberry Pi, ESP32  
+**Systems:** Linux (Fedora, Debian, Arch), Embedded Systems, Microcontrollers  
+**Hardware:** Arduino, Raspberry Pi, ESP32
 **Protocols:** MQTT, HTTP/HTTPS, WebSocket, Bluetooth, WiFi
 
 ### 🛡️ **DevOps & Tools**
@@ -96,6 +98,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="Fedora" title="Fedora">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian" title="Debian">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arch/arch-original.svg" height="40" alt="Arch" title="Arch">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" title="Neovim">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">
 </div>
