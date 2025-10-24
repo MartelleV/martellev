@@ -99,7 +99,7 @@
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian" title="Debian">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arch/arch-original.svg" height="40" alt="Arch" title="Arch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch" title="Arch">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" title="Neovim">
   <img width="12">
