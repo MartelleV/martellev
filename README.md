@@ -10,11 +10,11 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&layout=compact&card_width=320&langs_count=8&theme=tokyonight&border_radius=10" height="200" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartelleV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_bust=1" height="200" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartelleV&theme=tokyo-night&hide_border=true&border_radius=10&area=7" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartelleV&theme=tokyo-night&hide_border=true&border_radius=10&area=7&cache_bust=1" alt="GitHub Activity Graph">
 </div>
 
 
