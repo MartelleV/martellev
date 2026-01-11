@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase">
 </div>
 
-**Frameworks:** Next.js, Nuxt.js, Spring Boot, ASP.NET Core
+**Frameworks:** Next.js, Nuxt.js, Spring Boot, ASP.NET Core  
 **Databases:** SQL (PostgreSQL, SQLite, MySQL), Document Databases (MongoDB, Firebase)
 
 ### **IoT & Low-Level Programming**
