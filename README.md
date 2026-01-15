@@ -10,6 +10,10 @@
 ##
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartelleV&langs_count=8&theme=tokyo-night&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartelleV&theme=tokyo-night&hide_border=true&border_radius=10&area=7&cache_bust=1" alt="GitHub Activity Graph">
 </div>
 
