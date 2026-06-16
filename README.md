@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Computer+Science+Graduate;Full-Stack+Web+%26+Mobile+Developer;IoT+%26+Low-Level+Programming)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Computer+Scientist;Systems+Engineer;IoT+%26+Low-Level+Programming)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,12 +16,10 @@
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java">
-  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter">
 </div>
 
-**Platforms:** iOS Native, Android Native, Cross-platform (React Native, Flutter)
+**Platforms:** iOS Native, Android Native, Flutter
 
 ### **Full-Stack Web Development**
 <div align="left">
@@ -32,8 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase">
 </div>
 
-**Frameworks:** Next.js, Nuxt.js, Spring Boot, ASP.NET Core  
-**Databases:** SQL (PostgreSQL, SQLite, MySQL), Document Databases (MongoDB, Firebase)
+**Frameworks:** Next.js, Spring Boot, ASP.NET Core, Gin  
+**APIs & Protocols:** RESTful, GraphQL, gRPC, WebSocket, MQTT, HTTP/HTTPS   
+**Databases:** SQL (PostgreSQL, SQLite, MySQL), Document/NoSQL Databases (Redis, MongoDB, Firebase)
 
 ### **IoT & Low-Level Programming**
 <div align="left">
@@ -44,21 +43,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi">
 </div>
 
-**Systems:** Linux (Fedora, Debian, Arch), Embedded Systems, Microcontrollers  
+**Systems:** Linux (Fedora, Debian, Arch), Embedded Systems  
 **Hardware:** Arduino, Raspberry Pi, ESP32
-**Protocols:** MQTT, HTTP/HTTPS, WebSocket, Bluetooth, WiFi
 
-### **DevOps & Tools**
+### **Tools**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch" title="Arch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" title="Neovim">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka" title="Apache Kafka">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana">
 </div>
 
 
@@ -69,10 +69,10 @@
 | **Language** | **Proficiency** | **Use Cases** |
 |--------------|-----------------|---------------|
 | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐⭐⭐ | iOS native development |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Web development, Android apps |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Web development, cross-platform mobile apps |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend development |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-stack web development |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ⭐⭐⭐⭐ | System programming, IoT |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ⭐⭐⭐⭐ | Desktop and web app development |
+| ![Go](https://img.shields.io/badge/--00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐⭐ | Backend development, concurrency |
 
 </div>
 
